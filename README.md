@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🚀 Além disso, sou apaixonado por automação, jogos de estratégia e corrida.
 
-- 📫 Você pode entrar em contato comigo usando os emblemas abaixo. Ficarei feliz em ouvir de você! 😃
+- 📫 Você pode entrar em contato comigo usando os emblemas abaixo. 😃
 
 ⭐️ [Davysson Lucas](https://github.com/davyssonlucas)
 
