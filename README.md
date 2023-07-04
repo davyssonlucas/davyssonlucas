@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <a href="https://piraces.dev/"><img alt="Robot logo" src="https://github.com/piraces/piraces/raw/master/robot_dark.png" align="right" height="150" /></a>
 -->
-
+<!--
 ### Meus conhecimentos
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ![CSS_Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![NodeJS_Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL_Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
+-->
 
 ## Algumas das minhas estatísticas do Github
 ![davyssonlucas github stats](https://github-readme-stats.vercel.app/api?username=davyssonlucas&show_icons=true)
