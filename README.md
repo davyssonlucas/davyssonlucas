@@ -52,6 +52,5 @@ Here are some ideas to get you started:
 
 
 ## Algumas das minhas estatísticas do Github
-![davyssonlucas github stats](https://github-readme-stats.vercel.app/api?username=davyssonlucas&show_icons=true)
-
+![Davysson Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=davyssonlucas&show_icons=true&theme=transparent)
 
