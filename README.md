@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davyssonlucas)](https://github.com/davyssonlucas/github-readme-stats)
 -->
 
 # Olá, Visitantes! 👋
@@ -52,5 +53,4 @@ Here are some ideas to get you started:
 
 
 ## Algumas das minhas estatísticas do Github
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davyssonlucas)](https://github.com/davyssonlucas/github-readme-stats)
-![Davysson's GitHub stats](https://github-readme-stats.vercel.app/api?username=davyssonlucas&show_icons=true&theme=radical)
+![Davysson's GitHub stats](https://github-readme-stats.vercel.app/api?username=davyssonlucas&show_icons=true&theme=merko)
