@@ -12,6 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davyssonlucas)](https://github.com/davyssonlucas/github-readme-stats)
+
+
+## Algumas das minhas estatísticas do Github
+![Davysson's GitHub stats](https://github-readme-stats.vercel.app/api?username=davyssonlucas&show_icons=true&theme=merko)
 -->
 
 # Olá, Visitantes! 👋
@@ -49,8 +53,3 @@ Here are some ideas to get you started:
 ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-
-## Algumas das minhas estatísticas do Github
-![Davysson's GitHub stats](https://github-readme-stats.vercel.app/api?username=davyssonlucas&show_icons=true&theme=merko)
