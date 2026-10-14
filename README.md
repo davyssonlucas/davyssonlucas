@@ -1,6 +1,6 @@
 # Davysson Lucas
 
-Desenvolvedor backend Python e criador do **[Planeja Aí, Prôfe](https://planeja.prof)**, plataforma web que ajuda
+Desenvolvedor backend Python e criador do **[Planeja AI Prof](https://planeja.prof)**, plataforma web que ajuda
 professores a planejar aulas com inteligência artificial e a acompanhar suas turmas.
 
 Trabalho do modelo de dados ao deploy: arquitetura em Django, integrações de pagamento, processamento assíncrono,
@@ -8,7 +8,7 @@ uso de IA generativa em produção e operação do servidor.
 
 ---
 
-## Planeja Aí, Prôfe
+## Planeja AI Prof
 
 [planeja.prof](https://planeja.prof) · produto próprio, em produção
 
@@ -65,4 +65,4 @@ Concebi, desenvolvi e opero a plataforma. Alguns pontos do projeto:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davyssonlucas)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/davyssonsantana)
-[![Planeja Aí, Prôfe](https://img.shields.io/badge/planeja.prof-1F6FEB?style=flat-square&logoColor=white)](https://planeja.prof)
+[![Planeja AI Prof](https://img.shields.io/badge/planeja.prof-1F6FEB?style=flat-square&logoColor=white)](https://planeja.prof)
